@@ -1,0 +1,38 @@
+body {
+	background-color: hsl(212, 45%, 89%);
+	margin: 0px;
+	padding: 0px;
+}
+
+.card {
+	width: 303px;
+	height: 470px;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 20px;
+	margin: 50px auto;
+	box-shadow: 0px 0px 10px hsl(136, 0%, 83%);
+}
+
+.qrimage {
+	width: 273px;
+	height: 273px;
+	border-radius: 10px;
+	margin: 15px 15px 0px 15px;
+}
+
+.copy {
+	font-family: "Outfit", sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	color: hsl(218, 44%, 22%);
+	text-align: center;
+}
+
+.copytext {
+	font-family: "Outfit", sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	color: hsl(220, 15%, 55%);
+	text-align: center;
+	margin: 20px;
+}
