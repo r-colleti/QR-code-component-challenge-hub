@@ -4,12 +4,18 @@ body {
 	padding: 0px;
 }
 
+.center {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .card {
 	width: 303px;
 	height: 470px;
 	background-color: hsl(0, 0%, 100%);
 	border-radius: 20px;
-	margin: 50px auto;
 	box-shadow: 0px 0px 10px hsl(136, 0%, 83%);
 }
 
